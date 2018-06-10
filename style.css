@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-color: linear-gradient(to right, rgb(102, 251, 255), rgb(255, 243, 249)):
+  
+  background: linear-gradient(to left, rgb(150, 219, 255), rgb(255, 243, 249));*/
 }
 .container {
   display: flex;
@@ -11,8 +12,8 @@ body {
 h1 {
   font-family: fantasy;
   font-size: 3em;
-  border-bottom: 2px solid blue; 
-  border-right: 2px solid blue; 
+  border-bottom: 2px solid rgb(150, 219, 255); 
+  border-right: 2px solid rgb(150, 219, 255); 
   width: 400px;
   text-align: center;
   box-shadow: 4px 4px 5px #888888;

@@ -10,7 +10,7 @@ body {
 	
   height: 100vh;
   display: flex;
-  background-image: url(img/sun3.jpg);
+  background-image: url(images/sun3.jpg);
   background-repeat: no-repeat;
   background-size:cover;
 }

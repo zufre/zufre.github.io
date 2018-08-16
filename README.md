@@ -1,3 +1,2 @@
-# TobyGallery
+# Toby Memory Game
 
-Using FlexBox

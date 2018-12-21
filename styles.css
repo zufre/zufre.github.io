@@ -10,15 +10,19 @@ body {
 	
   height: 100vh;
   display: flex;
-  background-image: url(images/sun3.jpg);
+  background-image: url(images/sunflower.jpg);
   background-repeat: no-repeat;
   background-size:cover;
+}
+
+section {
+
 }
 section h1, h3 {
 	position: relative;
 	left: 4%;
 	
-	color: black;
+	color: gold;
 	font-family: Ariel;
 	
 	font-size: 2.9em;
@@ -32,9 +36,11 @@ h3{font-style: italic;
 }
 
 .memory-game {
-  width: 640px;
-  height: 640px;
+  width: 100vh;
+  height: 70vh;
+  min-height: 500px;
   margin: auto;
+  padding-bottom: 70px;
   display: flex;
   flex-wrap: wrap;
   perspective: 1000px;

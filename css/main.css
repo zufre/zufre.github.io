@@ -383,28 +383,36 @@ main#home h1 {
     grid-template-columns: 1fr;
   }
   .about-info .job-1:active {
-    position: initial;
+    position: relative;
     top: initial;
-    right: initial;
-    width: initial;
+    left: -5%;
+    width: 110%;
+    margin-top: -10%;
+    margin-bottom: -10%;
   }
   .about-info .job-2:active {
-    position: initial;
+    position: relative;
     top: initial;
-    right: initial;
-    width: initial;
+    left: -5%;
+    width: 110%;
+    margin-top: -10%;
+    margin-bottom: -10%;
   }
   .about-info .job-3:active {
-    position: initial;
+    position: relative;
     top: initial;
-    right: initial;
-    width: initial;
+    left: -5%;
+    width: 110%;
+    margin-top: -10%;
+    margin-bottom: -10%;
   }
   .about-info .job-4:active {
-    position: initial;
+    position: relative;
     top: initial;
-    right: initial;
-    width: initial;
+    right: 5%;
+    width: 110%;
+    margin-top: -10%;
+    margin-bottom: -10%;
   }
   .projects {
     grid-template-columns: repeat(2, 1fr);

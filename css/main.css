@@ -216,6 +216,9 @@ main#home h1 {
   grid-area: bio;
   font-size: 1.5rem;
 }
+.about-info #resume {
+  color: #5ac3e6;
+}
 .about-info .job-1 {
   grid-area: job1;
 }

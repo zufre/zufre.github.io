@@ -68,10 +68,14 @@ h1 {
   color: #00CED1;
 }
 h1 span {
-  display: inline-block;
+  display: inlin  margin-left: 20%;e-block;
   animation: slideLeft 1.5s forwards;
   opacity: 0;
   transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+  @media screen and (max-width: 500px) {
+  h1 {
+    margin-left: 0;
 }
 
 @keyframes slideLeft {
